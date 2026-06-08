@@ -11,9 +11,8 @@
     <footer class="footer">
         <div class="container">
             <p>
-                &copy; <?php echo date('Y'); ?> <strong>Sistema de Inventário Inteligente</strong> 
-                — Projeto Integrador
-            </p>
+                &copy; <?php echo date('Y'); ?> <strong>Curso Técnico em Informática</strong> 
+                — EeTePA - Capanema  </p>
             <small class="text-muted">
                 Desenvolvido com PHP 8.x, MySQL e Automação Python
             </small>
